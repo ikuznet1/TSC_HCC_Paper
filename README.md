@@ -1,2 +1,2 @@
 # TSC_HCC_Paper
-Code for generating figures described in "Loss of TSC Induces Hepatocellular Carcinoma Through Constitutive Activation of a Non-Canonical TFE3-Dependent Pathway"
+Code for generating figures described in "Loss of TSC Drives Hepatocellular Carcinoma via Suppression of an AKT/FLCN Feedback Loop and Consequent Non-Canonical Activation of TFE3"
